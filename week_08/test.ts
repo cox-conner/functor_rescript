@@ -106,4 +106,4 @@ const d: Query = {
         }
     ]
 }
-// SyntaxError: Unexpected identifier는 왜 자꾸 나느걸까?
+// SyntaxError: Unexpected identifier는 왜 자꾸 나는걸까?
